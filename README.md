@@ -10,9 +10,9 @@ Components:
   Computer with Arduino IDE and VS Code
   
 Libraries and Tools
-  Arduino IDE
-  Python 3.x
-  pySerial library for Python
-  pyAutoGUI library for Python
-  MPU6050 library for Arduino
+Arduino IDE
+Python
+pySerial library for Python
+pyAutoGUI library for Python
+MPU6050 library for Arduino
 
